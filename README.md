@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Islam Shaaban <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br />
 
 <!--
-**IslamShaaban/IslamShaaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Islam Shaaban/Islam Shaaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on ITI Open Source track <br />
+🌱 I’m currently learning Web Development Technologies. <br />
+👯 I’m looking to collaborate with other developers. <br />
+🤔 I’m looking for help with getting a full-time job. <br />
+💬 Ask me about Software Engineering and Web Development. <br />
+📫 How to reach me: islamshaaban10@gmail.com. <br />
+⚡ Fun fact: I have talent with playing football. <br />
