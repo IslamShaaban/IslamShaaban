@@ -1,4 +1,4 @@
-# Hi, I'm Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> 👩🏾‍💻
+# Hi, I'm Islam 👩🏾‍💻
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Islam_Shaaban7?label=Follow)](https://twitter.com/intent/follow?screen_name=Islam_Shaaban7)
 [![Linkedin: Islam](https://img.shields.io/badge/-Islam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/islamshaaban/)](https://www.linkedin.com/in/islamshaaban/)
