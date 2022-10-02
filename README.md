@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-🔭 I’m currently working as FullStack Developer at Lucidya Company <br />
+🔭 I’m currently working as FullStack Developer (ROR - Pyhton - ReactJS) at Lucidya Company <br />
 🌱 I’m currently learning Web Development Technologies. <br />
 👯 I’m looking to collaborate with other developers. <br />
 💬 Ask me about Software Engineering and Web Development. <br />
