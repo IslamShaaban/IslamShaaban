@@ -42,6 +42,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamShaaban&hide=TeX&layout=compact)
 
 ## Find me around the web 🌎 
