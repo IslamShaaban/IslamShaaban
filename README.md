@@ -42,13 +42,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=IslamShaaban&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamShaaban&hide=TeX&layout=compact)
 
 ## Find me around the web 🌎 
 - <a href="https://leetcode.com/islamshaaban10/">LeetCode</a> 😍
 - <a href="https://www.linkedin.com/in/islamshaaban/">LinkedIn</a> 😇
-
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
