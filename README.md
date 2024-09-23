@@ -45,6 +45,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamShaaban&hide=TeX&layout=compact)
 
+![GitHub Foundations Badge](https://www.credly.com/earner/earned/badge/a3e9763c-a956-4769-8a2b-86e41290f425)
+
 ## Find me around the web 🌎 
 - <a href="https://leetcode.com/islamshaaban10/">LeetCode</a> 😍
 - <a href="https://www.linkedin.com/in/islamshaaban/">LinkedIn</a> 😇
