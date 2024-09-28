@@ -55,7 +55,7 @@
 <img src=https://images.credly.com/size/220x220/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png />
 </a>
 <a href="https://www.credential.net/e7f09f71-19dd-4ecd-9284-3f6e71647c69?key=4d18875cca28c0ae8c6f3aa19255ea16155fa601da9847a21b01ccde1c83e658" target="_blank">
-<img src="https://i.ibb.co/mJ84h1z/ruby.png" alt="ruby" target="_blank" border="0">
+<img src="https://i.ibb.co/tL1yb64/ruby-removebg-preview.png" alt="ruby-certificate" border="0" target="_blank">
 </a>
 </div>
 
