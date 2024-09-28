@@ -51,6 +51,9 @@
 <a href="https://www.credly.com/badges/a3e9763c-a956-4769-8a2b-86e41290f425/public_url" target="_blank">
 <img src=https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png />
 </a>
+<a href="https://www.credly.com/badges/6c34a849-cea1-4878-916f-9a786df50c54/public_url" target="_blank">
+<img src=https://images.credly.com/size/220x220/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png />
+</a>
 </div>
 
 ## Find me around the web 🌎 
